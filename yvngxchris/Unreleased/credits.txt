@@ -1,3 +1,1 @@
 https://github.com/lucaswyd/music/raw/main/yvngxchris/Unreleased/yvngxchris%20-%20new%20gucci%20bucket%20hat.mp3|https://i1.sndcdn.com/artworks-PyJcdqETOCgEn4NH-jDILdQ-t500x500.jpg|new gucci bucket hat|yvngxchris|Unreleased
-
-audio_url2|album_art_url2|title2|artist2|album2
